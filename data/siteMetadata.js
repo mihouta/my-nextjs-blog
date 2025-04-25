@@ -2,7 +2,7 @@
 const siteMetadata = {
   title: '行舟知水',
   author: '寸悦',
-  headerTitle: '行舟之水',
+  headerTitle: '行舟知水',
   description: '做一件事最好的时刻，就是现在。',
   language: 'zh-cn',
   theme: 'system', // system, dark or light
@@ -81,7 +81,7 @@ const siteMetadata = {
       // example: https://giscus.app/themes/custom_example.css
       themeURL: '',
       // This corresponds to the `data-lang="en"` in giscus's configurations
-      lang: 'en',
+      lang: 'zh-CN',
     },
   },
   search: {
